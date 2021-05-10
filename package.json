@@ -23,6 +23,7 @@
   "repository": "aframevr/aframe-inspector",
   "license": "MIT",
   "dependencies": {
+    "aframe-map": "^2.1.1",
     "autoprefixer": "^9.4.2",
     "babel-core": "^6.26.3",
     "babel-eslint": "^6.1.0",

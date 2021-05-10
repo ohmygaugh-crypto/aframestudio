@@ -14,6 +14,7 @@ import { injectCSS, injectJS } from './lib/utils';
 import { createEntity } from './lib/entity';
 import { GLTFExporter } from '../vendor/GLTFExporter'; // eslint-disable-line no-unused-vars
 
+
 require('./style/index.styl');
 
 function Inspector() {
